@@ -9,7 +9,7 @@ from time import sleep
 #set GITHUB_TOKEN=""
 
 # Load the GitHub token from environment variables
-os.environ["GITHUB_TOKEN"] = "#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"
+#set GITHUB_TOKEN as a ENVvariable before executing this file
 token = os.getenv("GITHUB_TOKEN")
 endpoint = "https://models.inference.ai.azure.com"
 #model_name = "jais-30b-chat"
