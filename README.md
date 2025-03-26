@@ -1,4 +1,4 @@
-# 🚀AI-Driven Hyper-Personalization & Recommendations![image](https://github.com/user-attachments/assets/a593a5f0-ce5f-4019-afae-b7d5c20e387e)
+# 🚀AI-Driven Hyper-Personalization & Recommendations
 
 
 ## 📌 Table of Contents
@@ -16,8 +16,6 @@
 
 ## 🎯 Introduction
 Develop a Gen-AI based solution, which gives highly personalized recommendations , by analyzing customer profile , social media activity, purchase history, sentiment data, etc.
-
-![Uploading image.png…]()
 
 
 ## 🎥 Demo
@@ -46,11 +44,14 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install azure-core
+   pip install csv
+   pip install transformers
+   pip install huggingface_hub
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python main.py
    ```
 
 ## 🏗️ Tech Stack
