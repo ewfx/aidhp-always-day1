@@ -23,7 +23,7 @@ Develop a Gen-AI based solution, which gives highly personalized recommendations
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
@@ -32,10 +32,10 @@ What inspired you to create this project? Describe the problem you're solving.
 Explain the key features and functionalities of your project.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+2 offline models(downloaded and hosted in local host) and 5 online hosted models were analyzed and out of them 3 were chosen, based on their reasoning, ability to predict/recommend , as per the requirement of the project. parameter fine tunning was done, code was created to amke the API request, validation data was created, user data was created, created Prompt containing the guidelines, for the model to follow to, during the recommendation process. 
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Major challenege is rate-limit in using freely available models, osted on web. In case of local models, the major challnge was their size and their training/fine tunning.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -51,15 +51,14 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 3. Run the project  
    ```sh
+   cd code/src
    python main.py
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Backend: python
+- 🔹 Other: OpenAI API / Meta-Llama API / Phi-3 API
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Darshan KUmar** 
+
