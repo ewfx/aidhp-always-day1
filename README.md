@@ -12,7 +12,7 @@
 - [Team](#team)
 
 ---
-DEMO OF WORKING SOLUTION: https://drive.google.com/file/d/18fDfmAe1wcoKxvL7jbCyxKHW0iVfWmiA/view?usp=drive_link
+DEMO VIDEO (OF WORKING SOLUTION): https://drive.google.com/file/d/18fDfmAe1wcoKxvL7jbCyxKHW0iVfWmiA/view?usp=drive_link
 
 ## 🎯 Introduction
 Develop a Gen-AI based solution, which gives highly personalized recommendations , by analyzing customer profile , social media activity, purchase history, sentiment data, etc.Also decides on whether it will be safe to offer a credit option, for the product the user wants, by analysing the annual income, recent purchase history, sentiment of the user-based on their social media posts.
