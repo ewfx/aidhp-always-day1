@@ -1,1 +1,1 @@
-attached ppt which summarises he project
+attached ppt which summarizes the project, and provides a complete project overview
