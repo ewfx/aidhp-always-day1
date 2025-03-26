@@ -1,4 +1,5 @@
-# 🚀 Project Name
+# 🚀AI-Driven Hyper-Personalization & Recommendations![image](https://github.com/user-attachments/assets/a593a5f0-ce5f-4019-afae-b7d5c20e387e)
+
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +15,10 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Develop a Gen-AI based solution, which gives highly personalized recommendations , by analyzing customer profile , social media activity, purchase history, sentiment data, etc.
+
+![Uploading image.png…]()
+
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
