@@ -43,7 +43,7 @@ Major challenege is rate-limit in using freely available models, hosted on web. 
    ```
 3. Run the project  
    ```sh
-   note: GitHub token needs to be set as a  environment variables, before starting the program execution.more details here: https://github.com/marketplace
+   #note: GitHub token needs to be set as a  environment variables, before starting the program execution.more details here: https://github.com/marketplace
    cd code/src
    python main.py
    ```
